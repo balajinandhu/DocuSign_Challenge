@@ -1,0 +1,6 @@
+\\samba1\bnarayan\dcengr\Desktop\DocuSign_Challenge\DocuSign_Challenge-2016-05-24\DocuSign_Challenge\DocuSign_Challenge\bin\Release\DocuSign_Challenge.exe.config
+\\samba1\bnarayan\dcengr\Desktop\DocuSign_Challenge\DocuSign_Challenge-2016-05-24\DocuSign_Challenge\DocuSign_Challenge\bin\Release\DocuSign_Challenge.exe
+\\samba1\bnarayan\dcengr\Desktop\DocuSign_Challenge\DocuSign_Challenge-2016-05-24\DocuSign_Challenge\DocuSign_Challenge\bin\Release\DocuSign_Challenge.pdb
+\\samba1\bnarayan\dcengr\Desktop\DocuSign_Challenge\DocuSign_Challenge-2016-05-24\DocuSign_Challenge\DocuSign_Challenge\obj\Release\DocuSign_Challenge.exe
+\\samba1\bnarayan\dcengr\Desktop\DocuSign_Challenge\DocuSign_Challenge-2016-05-24\DocuSign_Challenge\DocuSign_Challenge\obj\Release\DocuSign_Challenge.pdb
+\\samba1\bnarayan\dcengr\Desktop\DocuSign_Challenge\DocuSign_Challenge-2016-05-24\DocuSign_Challenge\DocuSign_Challenge\obj\Release\DocuSign_Challenge.csprojResolveAssemblyReference.cache
